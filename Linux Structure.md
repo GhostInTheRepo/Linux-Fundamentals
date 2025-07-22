@@ -8,5 +8,5 @@
 -Run on servers, mainframes, desktops, embedded system like routers, TV, etc.
 -Android OS is based on Linux Kernel.
 -Linux is an OS like windows, iOS, Android or macOS.
--Parrot OS is a Debian-based linux.
+-Parrot OS is a Debian-based Linux.
 
